@@ -1,0 +1,2 @@
+class RadarReadings
+end
