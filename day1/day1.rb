@@ -1,2 +1,0 @@
-class RadarReadings
-end
